@@ -23,7 +23,7 @@ class InlineCode {
    * @return {string}
    */
   static get title() {
-    return "行内代码";
+    return "Code";
   }
 
   /**
